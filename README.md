@@ -29,7 +29,3 @@ python src/train_model.py --input Loan_Data.csv
 # 5. Start API
 uvicorn src.main:app --reload
 
-# 6. Results
-![alt text](image-1.png)
-
-![alt text](image-2.png)
