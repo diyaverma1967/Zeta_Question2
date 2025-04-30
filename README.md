@@ -1,4 +1,4 @@
-# Loan-API
+# Zeta_Question2- Loan-API
 
 **FastAPI** service + **Keras** model to compute a 0–100 credit-likelihood score and human-readable recommendation.
 
@@ -13,12 +13,12 @@
 
 ```bash
 # 1. Clone & cd
-git clone <your-repo-url>
-cd loan-api
+git clone https://github.com/diyaverma1967/Zeta_Question2.git
+cd Zeta_Question2
 
 # 2. Set up Conda env
-conda create -n loan-api python=3.11 -y
-conda activate loan-api
+conda create -n Zeta_Question2 python=3.11 -y
+conda activate Zeta_Question2
 
 # 3. Install deps
 pip install -r requirements.txt
